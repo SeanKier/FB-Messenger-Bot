@@ -1,0 +1,15 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "fb messenger webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sean Kier",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
